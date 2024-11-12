@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pennyzhao1507288.github.io/posts/1deaf85c/</loc>
+    
+    <lastmod>2024-11-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pennyzhao1507288.github.io/posts/223d6b0/</loc>
+    
+    <lastmod>2024-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pennyzhao1507288.github.io/posts/8b3ac367/</loc>
     
     <lastmod>2024-11-11</lastmod>
@@ -12,24 +30,6 @@
   
   <url>
     <loc>https://pennyzhao1507288.github.io/posts/67e70231/</loc>
-    
-    <lastmod>2024-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pennyzhao1507288.github.io/posts/1deaf85c/</loc>
-    
-    <lastmod>2024-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pennyzhao1507288.github.io/posts/223d6b0/</loc>
     
     <lastmod>2024-11-11</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://pennyzhao1507288.github.io/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +84,21 @@
   
   <url>
     <loc>https://pennyzhao1507288.github.io/tags/AI/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://pennyzhao1507288.github.io/tags/math/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://pennyzhao1507288.github.io/tags/machine-learning/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,21 +107,21 @@
   
   <url>
     <loc>https://pennyzhao1507288.github.io/categories/Computer-science/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://pennyzhao1507288.github.io/categories/Mathematics-and-Applications-of-Machine-Learning/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://pennyzhao1507288.github.io/categories/Multivariate-Statistics-and-Machine-Learning/</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
